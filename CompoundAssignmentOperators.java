@@ -15,8 +15,13 @@ ooooooooooooo   .oooooo.   ooooooooo.   ooooo   .oooooo.          .o            
      888      `88b    d88'  888          888  `88b    ooo        888  .o.      888   
     o888o      `Y8bood8P'  o888o        o888o  `Y8bood8P'       o888o Y8P     o888o  
 
-Author Name, Date, Time, version 0.0
-                                                                            
+
+    YOUR LOGO HERE 
+
+
+    
+
+Author Name, Date, Time, version 0.0                                                                 
 */
 
 public class CompoundAssignmentOperators {
